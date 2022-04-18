@@ -1,4 +1,4 @@
-from physica.core.units import dimensional_analysis
+from physica import dimensional_analysis
 from sympy import Symbol
 
 def test_length():
