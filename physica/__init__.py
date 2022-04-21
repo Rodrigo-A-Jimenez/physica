@@ -1,1 +1,1 @@
-from .core.units import dim_analysis
+from .core.dimsAnalysis import dim_analysis
